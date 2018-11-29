@@ -103,7 +103,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34145,
         "nom": "Lunel"
       }
@@ -162,7 +162,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34340,
         "nom": "Villetelle"
       }
@@ -213,7 +213,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34330,
         "nom": "Vérargues"
       }
@@ -280,7 +280,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34033,
         "nom": "Boisseron"
       }
@@ -347,7 +347,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34246,
         "nom": "Saint-Christol"
       }
@@ -442,7 +442,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34110,
         "nom": "Galargues"
       }
@@ -501,7 +501,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34294,
         "nom": "Saturargues"
       }
@@ -568,7 +568,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34272,
         "nom": "Saint-Just"
       }
@@ -627,7 +627,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34288,
         "nom": "Saint-Sériès"
       }
@@ -682,7 +682,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34296,
         "nom": "Saussines"
       }
@@ -729,7 +729,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34048,
         "nom": "Campagne"
       }
@@ -780,7 +780,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34112,
         "nom": "Garrigues"
       }
@@ -839,7 +839,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34280,
         "nom": "Saint-Nazaire-de-Pézan"
       }
@@ -962,7 +962,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34151,
         "nom": "Marsillargues"
       }
@@ -1049,7 +1049,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e94640",
-        "fill-opacity": 1,
+        "fill-opacity": 0.7,
         "code": 34146,
         "nom": "Lunel-Viel"
       }
