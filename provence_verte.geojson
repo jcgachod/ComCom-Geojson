@@ -1058,7 +1058,12 @@
         ]
       },
       "properties": {
-        "code": "83030",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83030,
         "nom": "Camps-la-Source"
       }
     },
@@ -2043,7 +2048,12 @@
         ]
       },
       "properties": {
-        "code": "83045",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83045,
         "nom": "Correns"
       }
     },
@@ -3051,7 +3061,12 @@
         ]
       },
       "properties": {
-        "code": "83059",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83059,
         "nom": "Forcalqueiret"
       }
     },
@@ -3544,7 +3559,12 @@
         ]
       },
       "properties": {
-        "code": "83106",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83106,
         "nom": "Rocbaron"
       }
     },
@@ -3742,7 +3762,12 @@
         ]
       },
       "properties": {
-        "code": "83111",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83111,
         "nom": "Sainte-Anastasie-sur-Issole"
       }
     },
@@ -4455,7 +4480,12 @@
         ]
       },
       "properties": {
-        "code": "83151",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83151,
         "nom": "Vins-sur-Caramy"
       }
     },
@@ -5084,7 +5114,12 @@
         ]
       },
       "properties": {
-        "code": "83037",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83037,
         "nom": "Celle"
       }
     },
@@ -5502,7 +5537,12 @@
         ]
       },
       "properties": {
-        "code": "83039",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83039,
         "nom": "Châteauvert"
       }
     },
@@ -5720,7 +5760,12 @@
         ]
       },
       "properties": {
-        "code": "83064",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83064,
         "nom": "Garéoult"
       }
     },
@@ -6098,7 +6143,12 @@
         ]
       },
       "properties": {
-        "code": "83076",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83076,
         "nom": "Mazaugues"
       }
     },
@@ -6727,7 +6777,12 @@
         ]
       },
       "properties": {
-        "code": "83089",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83089,
         "nom": "Ollières"
       }
     },
@@ -7787,7 +7842,12 @@
         ]
       },
       "properties": {
-        "code": "83110",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83110,
         "nom": "Rougiers"
       }
     },
@@ -8205,7 +8265,12 @@
         ]
       },
       "properties": {
-        "code": "83116",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83116,
         "nom": "Saint-Maximin-la-Sainte-Baume"
       }
     },
@@ -9536,7 +9601,12 @@
         ]
       },
       "properties": {
-        "code": "83093",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 83093,
         "nom": "Plan-d'Aups-Sainte-Baume"
       }
     },
