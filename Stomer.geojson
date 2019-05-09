@@ -419,7 +419,12 @@
         ]
       },
       "properties": {
-        "code": "62040",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62040,
         "nom": "Arques"
       }
     },
@@ -1506,7 +1511,12 @@
         ]
       },
       "properties": {
-        "code": "62014",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62014,
         "nom": "Aire-sur-la-Lys"
       }
     },
@@ -2649,7 +2659,12 @@
         ]
       },
       "properties": {
-        "code": "62288",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62288,
         "nom": "Ecques"
       }
     },
@@ -2863,7 +2878,12 @@
         ]
       },
       "properties": {
-        "code": "62327",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62327,
         "nom": "Febvin-Palfart"
       }
     },
@@ -3595,7 +3615,12 @@
         ]
       },
       "properties": {
-        "code": "62691",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62691,
         "nom": "Saint-Augustin"
       }
     },
@@ -4044,7 +4069,12 @@
         ]
       },
       "properties": {
-        "code": "62875",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62875,
         "nom": "Wardrecques"
       }
     },
@@ -4305,7 +4335,12 @@
         ]
       },
       "properties": {
-        "code": "62681",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62681,
         "nom": "Quiestède"
       }
     },
@@ -4487,7 +4522,12 @@
         ]
       },
       "properties": {
-        "code": "62901",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62901,
         "nom": "Wittes"
       }
     },
@@ -5366,7 +5406,12 @@
         ]
       },
       "properties": {
-        "code": "62087",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62087,
         "nom": "Bayenghem-lès-Éperlecques"
       }
     },
@@ -5540,7 +5585,12 @@
         ]
       },
       "properties": {
-        "code": "62095",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62095,
         "nom": "Beaumetz-lès-Aire"
       }
     },
@@ -6037,7 +6087,12 @@
         ]
       },
       "properties": {
-        "code": "62254",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62254,
         "nom": "Coyecques"
       }
     },
@@ -6319,7 +6374,12 @@
         ]
       },
       "properties": {
-        "code": "62265",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62265,
         "nom": "Delettes"
       }
     },
@@ -6513,7 +6573,12 @@
         ]
       },
       "properties": {
-        "code": "62267",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62267,
         "nom": "Dennebrœucq"
       }
     },
@@ -6998,7 +7063,12 @@
         ]
       },
       "properties": {
-        "code": "62304",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62304,
         "nom": "Erny-Saint-Julien"
       }
     },
@@ -7395,7 +7465,12 @@
         ]
       },
       "properties": {
-        "code": "62403",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62403,
         "nom": "Hallines"
       }
     },
@@ -7828,7 +7903,12 @@
         ]
       },
       "properties": {
-        "code": "62458",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62458,
         "nom": "Houlle"
       }
     },
@@ -8042,7 +8122,12 @@
         ]
       },
       "properties": {
-        "code": "62471",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62471,
         "nom": "Bellinghem"
       }
     },
@@ -8272,7 +8357,12 @@
         ]
       },
       "properties": {
-        "code": "62485",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62485,
         "nom": "Laires"
       }
     },
@@ -9076,7 +9166,12 @@
         ]
       },
       "properties": {
-        "code": "62569",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62569,
         "nom": "Merck-Saint-Liévin"
       }
     },
@@ -9322,7 +9417,12 @@
         ]
       },
       "properties": {
-        "code": "62592",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62592,
         "nom": "Moringhem"
       }
     },
@@ -9663,7 +9763,12 @@
         ]
       },
       "properties": {
-        "code": "62618",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62618,
         "nom": "Nordausques"
       }
     },
@@ -9805,7 +9910,12 @@
         ]
       },
       "properties": {
-        "code": "62622",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62622,
         "nom": "Nort-Leulinghem"
       }
     },
@@ -9995,7 +10105,12 @@
         ]
       },
       "properties": {
-        "code": "62696",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62696,
         "nom": "Reclinghem"
       }
     },
@@ -10233,7 +10348,12 @@
         ]
       },
       "properties": {
-        "code": "62704",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62704,
         "nom": "Renty"
       }
     },
@@ -10662,7 +10782,12 @@
         ]
       },
       "properties": {
-        "code": "62760",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62760,
         "nom": "Saint-Martin-d'Hardinghem"
       }
     },
@@ -10812,7 +10937,12 @@
         ]
       },
       "properties": {
-        "code": "62772",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62772,
         "nom": "Salperwick"
       }
     },
@@ -11536,7 +11666,12 @@
         ]
       },
       "properties": {
-        "code": "62819",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62819,
         "nom": "Tilques"
       }
     },
@@ -12268,7 +12403,12 @@
         ]
       },
       "properties": {
-        "code": "62904",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "code": 62904,
         "nom": "Zouafques"
       }
     }
