@@ -621,7 +621,12 @@
         ]
       },
       "properties": {
-        "code": "62336",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62336,
         "nom": "Fléchin"
       }
     },
@@ -827,7 +832,12 @@
         ]
       },
       "properties": {
-        "code": "62205",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62205,
         "nom": "Campagne-lès-Wardrecques"
       }
     },
@@ -1085,7 +1095,12 @@
         ]
       },
       "properties": {
-        "code": "62295",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62295,
         "nom": "Enquin-lez-Guinegatte"
       }
     },
@@ -1853,7 +1868,12 @@
         ]
       },
       "properties": {
-        "code": "62225",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62225,
         "nom": "Clairmarais"
       }
     },
@@ -2115,7 +2135,12 @@
         ]
       },
       "properties": {
-        "code": "62721",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62721,
         "nom": "Roquetoire"
       }
     },
@@ -2365,7 +2390,12 @@
         ]
       },
       "properties": {
-        "code": "62139",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62139,
         "nom": "Blendecques"
       }
     },
@@ -3043,7 +3073,12 @@
         ]
       },
       "properties": {
-        "code": "62452",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62452,
         "nom": "Heuringhem"
       }
     },
@@ -3281,7 +3316,12 @@
         ]
       },
       "properties": {
-        "code": "62543",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62543,
         "nom": "Mametz"
       }
     },
@@ -3877,7 +3917,12 @@
         ]
       },
       "properties": {
-        "code": "62765",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62765,
         "nom": "Saint-Omer"
       }
     },
@@ -4121,7 +4166,12 @@
         ]
       },
       "properties": {
-        "code": "62684",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62684,
         "nom": "Racquinghem"
       }
     },
@@ -4691,7 +4741,12 @@
         ]
       },
       "properties": {
-        "code": "62792",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62792,
         "nom": "Serques"
       }
     },
@@ -5009,7 +5064,12 @@
         ]
       },
       "properties": {
-        "code": "62053",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62053,
         "nom": "Audincthun"
       }
     },
@@ -5139,7 +5199,12 @@
         ]
       },
       "properties": {
-        "code": "62067",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62067,
         "nom": "Avroult"
       }
     },
@@ -5709,7 +5774,12 @@
         ]
       },
       "properties": {
-        "code": "62153",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62153,
         "nom": "Bomy"
       }
     },
@@ -6789,7 +6859,12 @@
         ]
       },
       "properties": {
-        "code": "62297",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62297,
         "nom": "Éperlecques"
       }
     },
@@ -7125,7 +7200,12 @@
         ]
       },
       "properties": {
-        "code": "62325",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62325,
         "nom": "Fauquembergues"
       }
     },
@@ -7533,7 +7613,12 @@
         ]
       },
       "properties": {
-        "code": "62423",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62423,
         "nom": "Helfaut"
       }
     },
@@ -8461,7 +8546,12 @@
         ]
       },
       "properties": {
-        "code": "62525",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62525,
         "nom": "Longuenesse"
       }
     },
@@ -8739,7 +8829,12 @@
         ]
       },
       "properties": {
-        "code": "62567",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62567,
         "nom": "Mentque-Nortbécourt"
       }
     },
@@ -9413,7 +9508,12 @@
         ]
       },
       "properties": {
-        "code": "62595",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62595,
         "nom": "Moulle"
       }
     },
@@ -10347,7 +10447,12 @@
         ]
       },
       "properties": {
-        "code": "62757",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62757,
         "nom": "Saint-Martin-lez-Tatinghem"
       }
     },
@@ -10945,7 +11050,12 @@
         ]
       },
       "properties": {
-        "code": "62811",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62811,
         "nom": "Thérouanne"
       }
     },
@@ -11259,7 +11369,12 @@
         ]
       },
       "properties": {
-        "code": "62812",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62812,
         "nom": "Thiembronne"
       }
     },
@@ -11799,7 +11914,12 @@
         ]
       },
       "properties": {
-        "code": "62827",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62827,
         "nom": "Tournehem-sur-la-Hem"
       }
     },
@@ -11997,7 +12117,12 @@
         ]
       },
       "properties": {
-        "code": "62902",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d21f28",
+        "fill-opacity": 0.5,
+        "code": 62902,
         "nom": "Wizernes"
       }
     },
