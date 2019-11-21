@@ -439,6 +439,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#37831e",
+        "fill-opacity": 0.5,
         "code": 44113,
         "nom": "Nozay"
       }
@@ -713,6 +718,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#37831e",
+        "fill-opacity": 0.5,
         "code": 44138,
         "nom": "Puceul"
       }
@@ -1119,6 +1129,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#df3f3f",
+        "fill-opacity": 0.5,
         "code": 44149,
         "nom": "Saffré"
       }
@@ -1513,6 +1528,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#df3f3f",
+        "fill-opacity": 0.5,
         "code": 44214,
         "nom": "Vay"
       }
@@ -1827,6 +1847,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#37831e",
+        "fill-opacity": 0.5,
         "code": 44224,
         "nom": "Grigonnais"
       }
@@ -2237,6 +2262,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#37831e",
+        "fill-opacity": 0.5,
         "code": 44001,
         "nom": "Abbaretz"
       }
@@ -2495,6 +2525,11 @@
         ]
       },
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#37831e",
+        "fill-opacity": 0.5,
         "code": 44208,
         "nom": "Treffieux"
       }
