@@ -422,7 +422,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#d21f38",
         "fill-opacity": 0.5,
         "code": 62040,
         "nom": "Arques"
@@ -1514,7 +1514,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#d21f38",
         "fill-opacity": 0.5,
         "code": 62014,
         "nom": "Aire-sur-la-Lys"
